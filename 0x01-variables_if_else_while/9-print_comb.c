@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	strimg ch;
+	char ch;
 	int n;
 
 	for (n = 48; n <= 57; n++)
