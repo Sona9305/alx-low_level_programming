@@ -1,13 +1,11 @@
 #include <stdio.h>
 
 /**
- * The program that prints _putchar
- * returns 0
+ * main - the driver function print _putchar followed on a new line
+ * Return: always 0
  */
- 
 int main(void) 
-{
-	putchar('_');
+{	putchar('_');
 	putchar('p');
 	putchar('u');
 	putchar('t');
