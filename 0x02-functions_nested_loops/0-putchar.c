@@ -2,7 +2,9 @@
 /**
  * main - the driver function print _putchar followed on a new line
  * Return: always 0
+ *
  */
+
 int main(void) 
 {
 	putchar('_');
