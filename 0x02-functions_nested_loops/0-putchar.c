@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - program that prints _putchar, followed by a new line.
- * return: The program should return 0
+ * main - the driver function print _putchar followed on a new line
+ * Return: always 0
  */
 
 int main(void)
