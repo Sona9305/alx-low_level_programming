@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - the driver function print _putchar followed on a new line
  * Return: always 0
