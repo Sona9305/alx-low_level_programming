@@ -1,5 +1,4 @@
-
-#include "main.h"
+#include <stdio.h>
 
 /**
  * print_alphabet - in lower case
@@ -13,5 +12,5 @@ void print_alphabet(void)
 	{
 		putchar(i);
 	}
-	_putchar('\n');
+	putchar('\n');
 }
