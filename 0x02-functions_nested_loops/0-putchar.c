@@ -3,9 +3,9 @@
 /**
  * The program that prints _putchar
  * returns 0
- * \
+ */
  
-int main (void) 
+int main(void) 
 {
  _putchar("_putchar\n");
  return (0);
