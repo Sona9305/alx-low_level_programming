@@ -14,3 +14,21 @@ void print_alphabet(void)
 	}
 	_putchar('\n');
 }
+
+/**
+ * main - check the code.
+ *
+ * Return: Always 0.
+ */
+
+int main()
+{
+    int i = 0;
+    while (i < 10)
+    {
+        printf("c");
+        i++;
+    }
+    //putchar("\n");
+    return (0);
+}
