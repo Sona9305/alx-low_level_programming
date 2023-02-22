@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * main - check the code for Holberton School students.
@@ -9,9 +9,9 @@ int main(void)
 {
 	char i;
 
-	for (i = "a"; i < "z"; i++)
+	for (i="a"; i<"z"; i++)
 	{
-		putchar(i);
+		putchar("%c", i);
 	}
 	putchar("\n");
 	return (0);
