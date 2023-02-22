@@ -1,17 +1,17 @@
 #include <stdio.h>
-#include "main.h"
+
 /**
- * print_alphabet - in lower case
- * Return 0
+ * main - check the code for Holberton School students.
+ *
+ * Return: Always 0.
  */
-char print_alphabet(void)
+int main(void)
 {
 	char i;
 
-	for (i = 'a'; i <= 'z'; i++)
+	for (i = "a"; i < "z"; i++)
 	{
 		putchar(i);
 	}
-	putchar('\n');
 	return (0);
 }
