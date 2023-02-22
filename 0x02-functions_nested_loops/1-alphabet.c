@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -13,5 +14,6 @@ int main(void)
 	{
 		putchar(i);
 	}
+	putchar("\n");
 	return (0);
 }
