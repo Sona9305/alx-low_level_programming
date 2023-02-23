@@ -1,13 +1,13 @@
-#incude "main.h"
+#incude <stdio.h>
 
 void print_alphabet(void)
 {
 	char alpha;
 
-	for (alpha = 'a'; alpha < 'z'; z++)
+	for (alpha = 'a'; alpha < 'z'; alpha++)
 	{
-		putchar('%c', alpha);
+		_putchar("%c", alpha);
 	}
-	putchar('\n');
+	_putchar("\n");
 	return (0);
 }
