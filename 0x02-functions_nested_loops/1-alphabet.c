@@ -6,8 +6,8 @@ void print_alphabet(void)
 
 	for (alpha = 'a'; alpha < 'z'; alpha++)
 	{
-		_putchar("%c", alpha);
+		putchar(alpha);
 	}
-	_putchar("\n");
+	putchar("\n");
 	return (0);
 }
