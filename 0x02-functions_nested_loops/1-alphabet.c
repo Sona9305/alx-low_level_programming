@@ -1,18 +1,13 @@
-#include "main.h"
+#incude "main.h"
 
-/**
- * main - check the code for Holberton School students.
- *
- * Return: Always 0.
- */
-int main(void)
+void print_alphabet(void)
 {
-	char i;
+	char alpha;
 
-	for (i="a"; i<"z"; i++)
+	for (alpha = 'a'; alpha < 'z'; z++)
 	{
-		putchar("%c", i);
+		putchar('%c', alpha);
 	}
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
