@@ -24,5 +24,3 @@ int i;
 	return (dest);
 
 }
-Footer
-© 2023 GitH
