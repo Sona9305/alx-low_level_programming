@@ -1,1 +1,1 @@
-argc and argv
+Structure and typedef lessons
