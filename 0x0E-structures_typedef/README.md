@@ -1,1 +1,1 @@
-typedef
+Structure and typedef lessons
